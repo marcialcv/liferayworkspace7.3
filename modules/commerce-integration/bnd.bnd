@@ -1,0 +1,4 @@
+Bundle-Name: commerce-integration
+Bundle-SymbolicName: commerce.integration
+Bundle-Version: 1.0.0
+Export-Package: commerce.integration.api.service.*

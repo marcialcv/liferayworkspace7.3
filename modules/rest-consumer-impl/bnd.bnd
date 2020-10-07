@@ -1,0 +1,3 @@
+Bundle-Name: rest-consumer-impl
+Bundle-SymbolicName: rest.consumer.impl
+Bundle-Version: 1.0.0

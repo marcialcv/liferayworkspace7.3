@@ -1,0 +1,5 @@
+Bundle-Name: appbuilder-interceptor
+Bundle-SymbolicName: appbuilder.interceptor
+Bundle-Version: 1.0.0
+Import-Package: \
+	*
